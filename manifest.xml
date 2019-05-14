@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_plugin_manifest_file>
+    <SdkVersion major="1" minor="11"  release="12" />
+    <Plugin name="AutoReadonly">
+        <Value title="AutoReadonly" />
+        <Value version="0.98" />
+        <Value description="Provide a function for set a opened file read-only access automatical or manually." />
+        <Value author="NanYu" />
+        <Value authorEmail="nanyu@sina.com" />
+        <Value authorWebsite="www.d2school.com" />
+        <Value thanksTo="Code::Blocks team,
+        the author of IncrementalSearch plugin,
+        MortenMacFly,
+        dmoore (project under unix,linux),
+        XayC,
+        stahta01,
+        mariocup" />
+        <Value license="GPL" />
+    </Plugin>
+    <Extra file="images/settings/autoreadonly.png" />
+    <Extra file="images/settings/autoreadonly-off.png" />
+</CodeBlocks_plugin_manifest_file>
